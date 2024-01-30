@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652780170642",
+    "project_id": "camo-app-c04ed",
+    "storage_bucket": "camo-app-c04ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652780170642:android:2f5b9e531341ce924ca54b",
+        "android_client_info": {
+          "package_name": "com.example.camo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652780170642-gihmcbuqb7od7t4b658nqputlk1gopsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camo",
+            "certificate_hash": "68608fdf9bd40cd4549b971643b5eb6c4599720c"
+          }
+        },
+        {
+          "client_id": "652780170642-rcvegi9jae9ccpn8pqf5m3usapnfiiqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuAUcxzUI2wlniKEF5sMeTP5ojx3ogOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652780170642-rcvegi9jae9ccpn8pqf5m3usapnfiiqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652780170642-80mh13p1c63soqb0dfo53atnmms3g1k9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.camo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
