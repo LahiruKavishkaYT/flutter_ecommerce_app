@@ -1,6 +1,6 @@
-# camo
+# Ecommerce Application
 
-A new Flutter project.
+Developed a fully-functional e-commerce application leveraging Flutter for frontend development, Dart for programming logic, and Firebase for backend services. Contributed significantly to UI/UX design, including Configuration, Login, and eCommerce User Interface components. Implemented authentication and data management functionalities using Firebase services.
 
 ## Getting Started
 
@@ -14,6 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# UI Design
+![Mobile App UI](https://github.com/LahiruKavishkaYT/flutter_ecommerce_app/assets/134825764/d7b1437c-1d39-4884-a436-ab3ea10a5923)
+
+
+
 
 # Design Errors
 
